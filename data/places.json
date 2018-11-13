@@ -1,0 +1,10 @@
+{
+  "places": [{
+    "id": 1,
+    "name": "Econ River Wilderness Area",
+    "neighborhood": "Orlando",
+    "address": "3795 Old Lockwood Rd, Oviedo, FL 32765",
+    "latlng": {
+      "lat": 28.6133534,
+      "lng": -81.1736201
+    }
